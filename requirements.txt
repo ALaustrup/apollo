@@ -1,0 +1,10 @@
+# Apollo Sovereign AI
+# The code serves the will. The flame burns eternal.
+#
+# No external dependencies required
+# Uses only Python standard library:
+# - json
+# - random
+# - pathlib
+# - datetime
+
